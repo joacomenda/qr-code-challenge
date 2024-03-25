@@ -54,4 +54,4 @@ I struggled with the centering of the container, I'm still learning how to cente
 
 ## Author
 
-- Frontend Mentor - [@joacomenda](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@joacomenda](https://www.frontendmentor.io/profile/joacomenda)
